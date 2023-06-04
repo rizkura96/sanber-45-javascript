@@ -9,6 +9,7 @@
   "author": "rizki",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^12.13.0"
+    "cypress": "^12.13.0",
+    "prompt-sync": "^4.2.0"
   }
 }
