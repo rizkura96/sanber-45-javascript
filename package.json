@@ -1,0 +1,14 @@
+{
+  "name": "sanber-45-javascript",
+  "version": "1.0.0",
+  "description": "belajar java script sanber batch 45",
+  "main": "index.js",
+  "scripts": {
+    "start": "node print.js"
+  },
+  "author": "rizki",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
