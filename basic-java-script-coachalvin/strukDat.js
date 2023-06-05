@@ -12,5 +12,5 @@ var dataKendaraan = ["rizki",27,"Alvez","DM 1123 DM" ]
 mobil.push("alphard")
 console.log(mobil)
 
-var dataKendaraan2 = []
-console.log(dataKendaraan2)
+var dataKendaraan = []
+console.log(dataKendaraan)

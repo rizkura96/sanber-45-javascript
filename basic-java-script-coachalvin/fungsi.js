@@ -2,8 +2,13 @@ function namaFungsi(){
     console.log("Hello World")
 }
 
-namaFungsi()//maka akan menghasilkan >> Hello World
 
+function namaFungsi2(){
+    console.log("Hello World!");
+}
+
+namaFungsi()//maka akan menghasilkan >> Hello World
+namaFungsi2()
 
 //fungsi penjumlahan
 //inpur bilangan a dan b
