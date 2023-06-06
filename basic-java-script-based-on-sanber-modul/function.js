@@ -73,8 +73,8 @@ console.log("hasil baginya adalah = "+ hasilPembagian)
 
 //cara lain
 function bagi3(a,b){
-    hasilBagi = a / b;
-    return hasilBagi;
+   return (hasilBagi = a / b)
+  
  }
  //memanggil fungsi
  var nilai1 = 20;

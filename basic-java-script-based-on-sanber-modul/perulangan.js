@@ -4,9 +4,9 @@
 //UNCOUNTED LOOP > WHILE, DO/WHILE
 
 //perulangan for
-// for(let i=0; i<10; i++){
-//     console.log("perulangan ke-"+ i)
-// }
+for(let i=0; i<10; i++){
+    console.log("perulangan ke-"+ i)
+}
 
 //perulangan while
 const prompt = require("prompt-sync")({sigint: true})
